@@ -8,10 +8,13 @@
 
 
 // creazione variabile per nome utente
+var name;
 
 // creazione variabile per cognome utente
+var surname;
 
 // creazione variabile per colore preferito utente
+var favoriteColor;
 
 // assegnazione valore alla variabile nome utente
 
