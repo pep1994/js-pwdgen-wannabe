@@ -24,3 +24,6 @@ surname = prompt("Qual è il tuo cognome?");
 
 // assegnazione valore variabile per colore preferito utente
 favoriteColor = prompt("Qual è il tuo colore preferito?");
+
+// output
+document.getElementById('title').innerHTML = (name + surname + favoriteColor + 19);
