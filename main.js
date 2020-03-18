@@ -26,4 +26,4 @@ surname = prompt("Qual è il tuo cognome?");
 favoriteColor = prompt("Qual è il tuo colore preferito?");
 
 // output
-document.getElementById('title').innerHTML = (name + surname + favoriteColor + 19);
+document.getEleomentById('title').innerHTML = (name + surname + favoriteColor + 19);
