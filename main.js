@@ -17,7 +17,10 @@ var surname;
 var favoriteColor;
 
 // assegnazione valore alla variabile nome utente
+name = prompt("Qual è il tuo nome?");
 
 // assegnazione valore variabile per cognome utente
+surname = prompt("Qual è il tuo cognome?");
 
 // assegnazione valore variabile per colore preferito utente
+favoriteColor = prompt("Qual è il tuo colore preferito?");
